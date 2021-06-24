@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/contests/sda-homework-1/challenges/challenge-2649
 #include <cmath>
 #include <cstdio>
 #include <vector>
