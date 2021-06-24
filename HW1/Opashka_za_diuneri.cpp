@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/contests/sda-homework-1/challenges/za-vkushti-ili-v-torbichka
 #include <cmath>
 #include <cstdio>
 #include <vector>
