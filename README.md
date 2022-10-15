@@ -14,4 +14,6 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 2|Homeworks/HW1|Maximum possible profit| [Храбрият предприемач](https://www.hackerrank.com/contests/sda-homework-1/challenges/challenge-2649/problem) |Easy| [Hrabriqt_predpriemach.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW1/Hrabriqt_predpriemach.cpp)
 3|Homeworks/HW1|Rearrange with the largest distance possible| [Опашка за дюнери](https://www.hackerrank.com/contests/sda-homework-1/challenges/za-vkushti-ili-v-torbichka) |Medium| [Opashka_za_diuneri.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW1/Opashka_za_diuneri.cpp)
 4|Homeworks/HW1|The first missing positive number from the array| [Arrays interview problem (Stripe)]() |Hard| [Arrays_interview_problem.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW1/Arrays_interview_problem.cpp)
+**Week 2**||**14-20 October**|||
+
 </div>
