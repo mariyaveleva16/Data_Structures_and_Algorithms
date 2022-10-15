@@ -8,39 +8,34 @@ using namespace std;
 
 
 int main() {
-    int N, M, a, b;
-    cin >> N ;
-    vector<int> ai;
-    vector<int> bi;
-    for(int i = 0; i < N; i++)
-    {
-        cin >> a;
-        ai.push_back(a);
+    int N, M, num, biggest_num=0, sum=0;
+    int arr1[100001]={0};
+    int arr2[100001]={0};
+    cin>>N;
+    
+    for(int i=0; i<N; i++){
+        cin>>num;
+        if(num>biggest_num){
+            biggest_num=num;
+        }
+        arr1[num]++;
     }
-    cin >> M;
-    for(int i = 0; i < M; i++)
-    {
-        cin >> b;
-        bi.push_back(b);
+    
+    cin>>M;
+    for(int i=0; i<M; i++){
+        cin>>num;
+        if(num>biggest_num){
+            biggest_num=num;
+        }
+        arr2[num]++;
     }
-    sort(ai.begin(), ai.end());
-    sort(bi.begin(), bi.end());
-    for(int i = 1; i < ai.size() - 2; i++)
-    {
-        if(ai[i] == ai[i+1] || ai[i] == ai[i-1]) ai.erase(ai.begin()+(i));
+
+    for(int i=0; i<=biggest_num; i++){
+        if(arr1[i]!=0 && arr2[i]!=0 ){
+            sum+=i;
+        }
     }
-    for(int i = 1; i < bi.size() - 2; i++)
-    {
-        if(bi[i] == bi[i+1] || bi[i] == bi[i-1]) bi.erase(bi.begin()+(i));
-    }
-    int sum = 0;
-    vector<int> newVector(ai.size() + bi.size());
-    vector<int>::iterator it, end;
-    it = set_intersection(ai.begin(), ai.end(), bi.begin(), bi.end(), newVector.begin());
-    for(end = newVector.begin(); end != it; end++)
-    {
-        sum = sum + *end;
-    }
-    cout << sum;
+    
+    cout<<sum;
     return 0;
 }
