@@ -9,6 +9,6 @@
   
 N|Subdomain|Task|Difffculty|Score|Max Score|Solution
 :-|:-|:-|:-:|:-:|:-:|-:
-1|Hackerrank prolems- Linux Shell/Bash| [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem?isFullScreen=true) |Easy|1|1| [Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Bash/Let's%20Echo.sh)
+1|Test1| [Повтарящи се числа 1](https://www.hackerrank.com/contests/sda-2020-2021-test1/challenges/1-257)<br>Напишете програма, която получава като вход два масива с цели числа и връща като изход сумата на уникалните числа, които се срещат и в двата масива. |Medium|10|10| [Povtatqshti_se_chisla.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test1/Povtatqshti_se_chisla.cpp)
 
 </div>
