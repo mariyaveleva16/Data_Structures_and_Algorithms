@@ -20,7 +20,7 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 7|Homeworks/HW2|By shuffling the symbols if a palindrome can be obtained| [Who wants to be a palindrome?](https://www.hackerrank.com/contests/sda-homework-2/challenges/who-wants-to-be-a-palindrome-intro-sorting) |Medium| [Who_wants_to_be_a_palindrome.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW2/Who_wants_to_be_a_palindrome.cpp)
 8|Homeworks/HW2|Fully overlapping intervals| [Спомени](https://www.hackerrank.com/contests/sda-homework-2/challenges/-sorting) |Medium| [Spomeni.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW2/Spomeni.cpp)
 9|Homeworks/Test2|Decreasing sort| [Лотария](https://www.hackerrank.com/contests/sda-2020-2021-test2-erfdw/challenges/challenge-2677) |Medium| [Lotariq.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test2/Lotariq.cpp)
-10|Homeworks/HW2|| []() |Easy| []()
+10|Homeworks/HW2|Sort and remove duplicates| [Коригираща подредба](https://www.hackerrank.com/contests/sda-2020-2021-test2-erfdw/challenges/challenge-2676/problem) |Medium| [Korigirashta_naredba.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test2/Korigirashta_naredba.cpp)
 11|Homeworks/HW2|| []() |Easy| []()
 12|Homeworks/HW2|| []() |Easy| []()
 13|Homeworks/HW2|| []() |Easy| []()
