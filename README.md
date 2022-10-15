@@ -19,11 +19,11 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 6|Homeworks/HW2|Merging intervals that have a point of contact| [Сливане на интервали](https://www.hackerrank.com/contests/sda-homework-2/challenges/merge-intervals42) |Medium| [Slivane_na_intervali.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW2/Slivane_na_intervali.cpp)
 7|Homeworks/HW2|By shuffling the symbols if a palindrome can be obtained| [Who wants to be a palindrome?](https://www.hackerrank.com/contests/sda-homework-2/challenges/who-wants-to-be-a-palindrome-intro-sorting) |Medium| [Who_wants_to_be_a_palindrome.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW2/Who_wants_to_be_a_palindrome.cpp)
 8|Homeworks/HW2|Fully overlapping intervals| [Спомени](https://www.hackerrank.com/contests/sda-homework-2/challenges/-sorting) |Medium| [Spomeni.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW2/Spomeni.cpp)
-9|Homeworks/Test2|Decreasing sort| [Лотария](https://www.hackerrank.com/contests/sda-2020-2021-test2-erfdw/challenges/challenge-2677) |Medium| [Lotariq.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test2/Lotariq.cpp)
-10|Homeworks/HW2|Sort and remove duplicates| [Коригираща подредба](https://www.hackerrank.com/contests/sda-2020-2021-test2-erfdw/challenges/challenge-2676/problem) |Medium| [Korigirashta_naredba.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test2/Korigirashta_naredba.cpp)
-11|Homeworks/HW2|| []() |Easy| []()
-12|Homeworks/HW2|| []() |Easy| []()
-13|Homeworks/HW2|| []() |Easy| []()
-14|Homeworks/HW2|| []() |Easy| []()
-15|Homeworks/HW2|| []() |Easy| []()
+9|Homeworks/Test2|Decreasing sort| [Лотария](https://www.hackerrank.com/contests/sda-2020-2021-test2-erfdw/challenges/challenge-2677) |Medium| [Lotariq.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test2/Lotariq.cpp)<br>
+10|Homeworks/Test2|Sort and remove duplicates| [Коригираща подредба](https://www.hackerrank.com/contests/sda-2020-2021-test2-erfdw/challenges/challenge-2676/problem) |Medium| [Korigirashta_naredba.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test2/Korigirashta_naredba.cpp)<br>
+11|Homeworks/HW3|Number of students with scores in given intervals| [Оценки](https://www.hackerrank.com/contests/sda-homework-3/challenges/challenge-2675) |Medium| [Ocenki.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Ocenki.cpp)
+12|Homeworks/HW3|The least amount of time| [Перфектният принтер](https://www.hackerrank.com/contests/sda-homework-3/challenges/challenge-2674) |Medium| [Perfektniqt_printer.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Perfektniqt_printer.cpp)
+13|Homeworks/HW3|Recursively dividing intervals into three equal parts| [Генно инженерество](https://www.hackerrank.com/contests/sda-homework-3/challenges/-searching) |Medium| [Genno_injenerstvo.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Genno_injenerstvo.cpp)
+14|Homeworks/HW2|| [Weird Queries](https://www.hackerrank.com/contests/sda-homework-3/challenges/queries-5/copy-from/1329907010) |Hard| [Wierd_queries.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Wierd_queries.cpp)
+15|Homeworks/HW2|| [Between Us - Bonus](https://www.hackerrank.com/contests/sda-homework-3/challenges/betweenus) |Advanced| [Between_us.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Between_us.cpp)
 </div>
