@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/mariyaveleva16/Differential-equations-and-applications/blob/main/g94206.png" height="300" alt="volatility">
+  <img src="https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Learn-Data-Structures-and-Algorithms-Easily.gif" height="300" alt="volatility">
 </p>
