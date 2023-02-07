@@ -37,5 +37,5 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 11**||**23-05 December-January**|||
 **Week 12**||**06-13 January**|||
 **Week 13**||**15-22 January**|||
-|Exams/Test12|| [Суеверия](https://www.hackerrank.com/contests/sda-2020-2021-test12-12ws4dw/challenges/challenge-2817) |Medium| [Sueveriq.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test12/Sueveriq.cpp)
+1|Exams/Test12|| [Суеверия](https://www.hackerrank.com/contests/sda-2020-2021-test12-12ws4dw/challenges/challenge-2817) |Medium| [Sueveriq.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test12/Sueveriq.cpp)
 </div>
