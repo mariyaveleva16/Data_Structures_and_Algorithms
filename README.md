@@ -26,4 +26,5 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 13|Homeworks/HW3|Recursively dividing intervals into three equal parts| [Генно инженерество](https://www.hackerrank.com/contests/sda-homework-3/challenges/-searching) |Medium| [Genno_injenerstvo.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Genno_injenerstvo.cpp)
 14|Homeworks/HW2|| [Weird Queries](https://www.hackerrank.com/contests/sda-homework-3/challenges/queries-5/copy-from/1329907010) |Hard| [Wierd_queries.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Wierd_queries.cpp)
 15|Homeworks/HW2|| [Between Us - Bonus](https://www.hackerrank.com/contests/sda-homework-3/challenges/betweenus) |Advanced| [Between_us.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Between_us.cpp)
+**Week 2**||**14-20 October**|||
 </div>
