@@ -37,5 +37,8 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 11**||**23-05 December-January**|||
 **Week 12**||**06-13 January**|||
 **Week 13**||**15-22 January**|||
+1|Homeworks/HW13|| [The Islander](https://www.hackerrank.com/contests/sda-homework-13/challenges/islander) |Medium| [The_islander.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW13/The_islander.cpp)
+1|Homeworks/HW13|| [Super Hamilton](https://www.hackerrank.com/contests/sda-homework-13/challenges/all-paths42) |Medium| [Super_hamilton.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW13/Super_hamilton.cpp)
+1|Homeworks/HW13|| [Минимална дълбочина](https://www.hackerrank.com/contests/sda-homework-13/challenges/challenge-2806) |Medium| [Minimalna_dalbochina.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW13/Minimalna_dalbochina.cpp)
 1|Exams/Test12|| [Суеверия](https://www.hackerrank.com/contests/sda-2020-2021-test12-12ws4dw/challenges/challenge-2817) |Medium| [Sueveriq.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test12/Sueveriq.cpp)
 </div>
