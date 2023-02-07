@@ -36,6 +36,11 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 10**||**15-22 December**|||
 **Week 11**||**23-05 December-January**|||
 **Week 12**||**06-13 January**|||
+1|Homeworks/HW12|| [Почистване](https://www.hackerrank.com/contests/sda-homework-12/challenges/challenge-2801) |Medium| [Pochistvane.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW12/Pochistvane.cpp)
+1|Homeworks/HW12|| [Скорости](https://www.hackerrank.com/contests/sda-homework-12/challenges/challenge-2799) |Medium| [Skorosti.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW12/Skorosti.cpp)
+1|Homeworks/HW12|| [Въпроси](https://www.hackerrank.com/contests/sda-homework-12/challenges/roads-5) |Medium| [Zaqvki.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW12/Zaqvki.cpp)
+1|Exams/Test11|| [Граф Монте Кристо](https://www.hackerrank.com/contests/sda-2020-2021-test11-43ed5rf/challenges/challenge-2805) |Medium| [Graf_monte_kristo.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test11/Graf_monte_kristo.cpp)
+1|Exams/Test11|| [Премахване на ребра](https://www.hackerrank.com/contests/sda-2020-2021-test11-43ed5rf/challenges/challenge-1761) |Medium| [Premahvane_na_rebra.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test11/Premahvane_na_rebra.cpp)
 **Week 13**||**15-22 January**|||
 1|Homeworks/HW13|| [The Islander](https://www.hackerrank.com/contests/sda-homework-13/challenges/islander) |Medium| [The_islander.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW13/The_islander.cpp)
 1|Homeworks/HW13|| [Super Hamilton](https://www.hackerrank.com/contests/sda-homework-13/challenges/all-paths42) |Medium| [Super_hamilton.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW13/Super_hamilton.cpp)
