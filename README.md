@@ -14,7 +14,7 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 2|Homeworks/HW1|Rearrange with the largest distance possible| [Опашка за дюнери](https://www.hackerrank.com/contests/sda-homework-1/challenges/za-vkushti-ili-v-torbichka) |Medium| [Opashka_za_diuneri.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW1/Opashka_za_diuneri.cpp)
 3|Homeworks/HW1|The first missing positive number from the array| [Arrays interview problem (Stripe)]() |Hard| [Arrays_interview_problem.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW1/Arrays_interview_problem.cpp)
 4|Exams/Test1|Sum of numbers occurring in two arrays, Counting| [Повтарящи се числа 1](https://www.hackerrank.com/contests/sda-2020-2021-test1/challenges/1-257) |Medium| [Povtatqshti_se_chisla.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test1/Povtatqshti_se_chisla.cpp)
-**Week 2**||**14-20 October**|||
+**Week 2**||**13-20 October**|||
 5|Homeworks/HW2|The median of the array after each addition of an element to it| [Walking median](https://www.hackerrank.com/contests/sda-homework-2/challenges/walking-median-sorting) |Easy| [Walking_median.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW2/Walking_median.cpp)
 6|Homeworks/HW2|Merging intervals that have a point of contact| [Сливане на интервали](https://www.hackerrank.com/contests/sda-homework-2/challenges/merge-intervals42) |Medium| [Slivane_na_intervali.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW2/Slivane_na_intervali.cpp)
 7|Homeworks/HW2|By shuffling the symbols if a palindrome can be obtained| [Who wants to be a palindrome?](https://www.hackerrank.com/contests/sda-homework-2/challenges/who-wants-to-be-a-palindrome-intro-sorting) |Medium| [Who_wants_to_be_a_palindrome.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW2/Who_wants_to_be_a_palindrome.cpp)
@@ -26,15 +26,15 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 13|Homeworks/HW3|Recursively dividing intervals into three equal parts| [Генно инженерество](https://www.hackerrank.com/contests/sda-homework-3/challenges/-searching) |Medium| [Genno_injenerstvo.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Genno_injenerstvo.cpp)
 14|Homeworks/HW2|| [Weird Queries](https://www.hackerrank.com/contests/sda-homework-3/challenges/queries-5/copy-from/1329907010) |Hard| [Wierd_queries.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Wierd_queries.cpp)
 15|Homeworks/HW2|| [Between Us - Bonus](https://www.hackerrank.com/contests/sda-homework-3/challenges/betweenus) |Advanced| [Between_us.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Between_us.cpp)
-**Week 3**||**14-20 October**|||
-**Week 4**||**14-20 October**|||
-**Week 5**||**14-20 October**|||
-**Week 6**||**14-20 October**|||
-**Week 7**||**14-20 October**|||
-**Week 8**||**14-20 October**|||
-**Week 9**||**14-20 October**|||
-**Week 10**||**14-20 October**|||
-**Week 11**||**14-20 October**|||
-**Week 12**||**14-20 October**|||
-**Week 13**||**14-20 October**|||
+**Week 3**||**20-27 October**|||
+**Week 4**||**27-03 October-November**|||
+**Week 5**||**03-10 November**|||
+**Week 6**||**10-17 November**|||
+**Week 7**||**17-24 November**|No test||
+**Week 8**||**24-01 November-December**|||
+**Week 9**||**03-15 December**|||
+**Week 10**||**15-22 December**|||
+**Week 11**||**23-05 December-January**|||
+**Week 12**||**06-13 January**|||
+**Week 13**||**15-22 January**|||
 </div>
