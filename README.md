@@ -27,7 +27,9 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 14|Homeworks/HW2|| [Weird Queries](https://www.hackerrank.com/contests/sda-homework-3/challenges/queries-5/copy-from/1329907010) |Hard| [Wierd_queries.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Wierd_queries.cpp)
 15|Homeworks/HW2|| [Between Us - Bonus](https://www.hackerrank.com/contests/sda-homework-3/challenges/betweenus) |Advanced| [Between_us.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Between_us.cpp)
 **Week 3**||**20-27 October**|||
+
 **Week 4**||**27-03 October-November**|||
+
 **Week 5**||**03-10 November**|||
 1|Homeworks/HW5|| [Камиони](https://www.hackerrank.com/contests/sda-homework-5/challenges/trucks) |Medium| [Kamioni.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW5/Kamioni.cpp)
 1|Homeworks/HW5|| [MinStack](https://www.hackerrank.com/contests/sda-homework-5/challenges/minstack) |Medium| [MinStack.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW5/MinStack.cpp)
