@@ -33,6 +33,13 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 7**||**17-24 November**|No test||
 **Week 8**||**24-01 November-December**|||
 **Week 9**||**03-15 December**|||
+1|Homeworks/HW9|| [Обир в хотел София](https://www.hackerrank.com/contests/sda-homework-9/challenges/challenge-2739) |Medium| [Obir_v_hotel_Sofiq.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW9/Obir_v_hotel_Sofiq.cpp)
+1|Homeworks/HW9|| [Cheater](https://www.hackerrank.com/contests/sda-homework-9/challenges/challenge-2590) |Medium| [Cheater.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW9/Cheater.cpp)
+1|Homeworks/HW9|| [0-1 подмасив](https://www.hackerrank.com/contests/sda-homework-9/challenges/0-1-1) |Medium| [0-1_podmasiv.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW9/0-1_podmasiv.cpp)
+1|Homeworks/HW9|| [Дълъг подниз](https://www.hackerrank.com/contests/sda-homework-9/challenges/longest-match) |Hard| [Bonus:Dulug_podniz.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW9/Bonus:Dulug_podniz.cpp)
+1|Homeworks/HW9|| [Bonus: Наставки](https://www.hackerrank.com/contests/sda-homework-9/challenges/bonus-3) |Advanced| [Bonus:Nastavki.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW9/Bonus:Nastavki.cpp)
+1|Exams/Test8|| [Поръчки и доставки](https://www.hackerrank.com/contests/sda-2020-2021-test8-immwjff/challenges/1-140) |Medium| [Poracki_i_dostavki.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test8/Poracki_i_dostavki.cpp)
+1|Exams/Test8|| [Проблемите на златаря](https://www.hackerrank.com/contests/sda-2020-2021-test8-immwjff/challenges/challenge-1604/problem) |Medium| [Problemite_na_zlatarq.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test8/Problemite_na_zlatarq.cpp)
 **Week 10**||**15-22 December**|||
 1|Homeworks/HW10|| [Цикличен граф](https://www.hackerrank.com/contests/sda-homework-10/challenges/-1-12/problem) |Medium| [Ciklichen_graf.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW10/Ciklichen_graf.cpp)
 1|Homeworks/HW10|| [Горски Пожари](https://www.hackerrank.com/contests/sda-homework-10/challenges/challenge-2753) |Medium| [Gorski_pojari.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW10/Gorski_pojari.cpp)
