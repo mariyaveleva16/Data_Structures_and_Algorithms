@@ -35,6 +35,13 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 9**||**03-15 December**|||
 **Week 10**||**15-22 December**|||
 **Week 11**||**23-05 December-January**|||
+1|Homeworks/HW11|| [Two Sets](https://www.hackerrank.com/contests/homework-11/challenges/discos) |Hard| [Two_sets.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW11/Two_sets.cpp)
+1|Homeworks/HW11|| [Shortest paths](https://www.hackerrank.com/contests/homework-11/challenges/shortest-paths-2) |Medium| [Shortest_paths.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW11/Shortest_paths.cpp)
+1|Homeworks/HW11|| [КПП](https://www.hackerrank.com/contests/homework-11/challenges/challenge-2774) |Medium| [KPP.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW11/KPP.cpp)
+1|Homeworks/HW11|| [Breakout](https://www.hackerrank.com/contests/homework-11/challenges/breakout) |Medium| [Breakout.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW11/Breakout.cpp)
+1|Homeworks/HW11|| [Tunnel maps](https://www.hackerrank.com/contests/homework-11/challenges/tunnel-maps) |Hard| [Bonus:Tunnel_maps.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW11/Bonus:Tunnel_maps.cpp)
+1|Exams/Test10|| [Доставки](https://www.hackerrank.com/contests/sda-2020-2021-test10-f43j2hj/challenges/challenge-2794) |Medium| [Dostavki.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test10/Dostavki.cpp)
+1|Exams/Test10|| [Оптимизация на превоза](https://www.hackerrank.com/contests/sda-2020-2021-test10-f43j2hj/challenges/challenge-2795) |Medium| [Optimizaciq_na_prevoza.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test10/Optimizaciq_na_prevoza.cpp)
 **Week 12**||**06-13 January**|||
 1|Homeworks/HW12|| [Почистване](https://www.hackerrank.com/contests/sda-homework-12/challenges/challenge-2801) |Medium| [Pochistvane.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW12/Pochistvane.cpp)
 1|Homeworks/HW12|| [Скорости](https://www.hackerrank.com/contests/sda-homework-12/challenges/challenge-2799) |Medium| [Skorosti.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW12/Skorosti.cpp)
