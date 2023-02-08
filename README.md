@@ -34,6 +34,12 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 8**||**24-01 November-December**|||
 **Week 9**||**03-15 December**|||
 **Week 10**||**15-22 December**|||
+1|Homeworks/HW10|| [Цикличен граф](https://www.hackerrank.com/contests/sda-homework-10/challenges/-1-12/problem) |Medium| [Ciklichen_graf.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW10/Ciklichen_graf.cpp)
+1|Homeworks/HW10|| [Горски Пожари](https://www.hackerrank.com/contests/sda-homework-10/challenges/challenge-2753) |Medium| [Gorski_pojari.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW10/Gorski_pojari.cpp)
+1|Homeworks/HW10|| [Нова азбука](https://www.hackerrank.com/contests/sda-homework-10/challenges/challenge-2752) |Medium| [Nova_azbuka.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW10/Nova_azbuka.cpp)
+1|Homeworks/HW10|| [Преписване](https://www.hackerrank.com/contests/sda-homework-10/challenges/challenge-2748) |Medium| [Prepisvane.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW10/Prepisvane.cpp)
+1|Exams/Test9|| [Пътната карта на Дядо Коледа](https://www.hackerrank.com/contests/sda-2020-2021-test9-wefnkcsdw/challenges/challenge-2762) |Medium| [Putna_karta_na_Dqdo_Koleda.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test9/Putna_karta_na_Dqdo_Koleda.cpp)
+1|Exams/Test9|| [Съществува ли конкретен път в граф?](https://www.hackerrank.com/contests/sda-2020-2021-test9-wefnkcsdw/challenges/challenge-2763) |Medium| [Sushtestvuva_li_konkreten_put_v_graf.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test9/Sushtestvuva_li_konkreten_put_v_graf.cpp)
 **Week 11**||**23-05 December-January**|||
 1|Homeworks/HW11|| [Two Sets](https://www.hackerrank.com/contests/homework-11/challenges/discos) |Hard| [Two_sets.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW11/Two_sets.cpp)
 1|Homeworks/HW11|| [Shortest paths](https://www.hackerrank.com/contests/homework-11/challenges/shortest-paths-2) |Medium| [Shortest_paths.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW11/Shortest_paths.cpp)
