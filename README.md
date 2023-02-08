@@ -30,6 +30,11 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 4**||**27-03 October-November**|||
 **Week 5**||**03-10 November**|||
 **Week 6**||**10-17 November**|||
+1|Homeworks/HW6|| [Горен изглед](https://www.hackerrank.com/contests/sda-homework-6/challenges/top) |Medium| [Goren_izgled.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW6/Goren_izgled.cpp)
+1|Homeworks/HW6|| [Няма К-то-мато](https://www.hackerrank.com/contests/sda-homework-6/challenges/--108) |Medium| [Nqma_K-to-mato.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW6/Nqma_K-to-mato.cpp)
+1|Homeworks/HW6|| [Подаръци 1](https://www.hackerrank.com/contests/sda-homework-6/challenges/1-266) |Medium| [Podaraci1.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW6/Podaraci1.cpp)
+1|Homeworks/HW6|| [Учене на гръцки](https://www.hackerrank.com/contests/sda-homework-6/challenges/match-2) |Medium| [Suvpadenie.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW6/Suvpadenie.cpp)
+1|Exams/Test6|| [Специфично обхождане - дърво](https://www.hackerrank.com/contests/sda-2020-2021-test6-dbr8t-r/challenges/traversal-level-order) |Medium| [Specifichno_obhojdane-darvo.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test6/Specifichno_obhojdane-darvo.cpp)
 **Week 7**||**17-24 November**|No test||
 1|Homeworks/HW7|| [Abstract Virtual Lectures](https://www.hackerrank.com/contests/sda-homework-7/challenges/avl-delete) |Medium| [Abstract_Virtual_Lectures.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW7/Abstract_Virtual_Lectures.cpp)
 1|Homeworks/HW7|| [Маската на Зоро](https://www.hackerrank.com/contests/sda-homework-7/challenges/zoros-mask/problem) |Easy| [Maskata_na_zoro.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW7/Maskata_na_zoro.cpp)
