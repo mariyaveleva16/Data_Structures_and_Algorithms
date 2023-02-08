@@ -29,6 +29,11 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 3**||**20-27 October**|||
 **Week 4**||**27-03 October-November**|||
 **Week 5**||**03-10 November**|||
+1|Homeworks/HW5|| [Камиони](https://www.hackerrank.com/contests/sda-homework-5/challenges/trucks) |Medium| [Kamioni.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW5/Kamioni.cpp)
+1|Homeworks/HW5|| [MinStack](https://www.hackerrank.com/contests/sda-homework-5/challenges/minstack) |Medium| [MinStack.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW5/MinStack.cpp)
+1|Homeworks/HW5|| [Печалба на борсaта](https://www.hackerrank.com/contests/sda-homework-5/challenges/a-225) |Medium| [Pechalba_ot_borsata.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW5/Pechalba_ot_borsata.cpp)
+1|Homeworks/HW5|| [Сума на минимални елементи](https://www.hackerrank.com/contests/sda-homework-5/challenges/challenge-2695) |Medium| [Suma_na_minimalni_elementi.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW5/Suma_na_minimalni_elementi.cpp)
+1|Exams/Test5|| [Счетоводни услуги ЕООД](https://www.hackerrank.com/contests/sda-2020-2021-test5-trgdcw/challenges/challenge-2712) |Medium| [Schetovodni_uslugi_eood.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test5/Schetovodni_uslugi_eood.cpp)
 **Week 6**||**10-17 November**|||
 1|Homeworks/HW6|| [Горен изглед](https://www.hackerrank.com/contests/sda-homework-6/challenges/top) |Medium| [Goren_izgled.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW6/Goren_izgled.cpp)
 1|Homeworks/HW6|| [Няма К-то-мато](https://www.hackerrank.com/contests/sda-homework-6/challenges/--108) |Medium| [Nqma_K-to-mato.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW6/Nqma_K-to-mato.cpp)
