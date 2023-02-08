@@ -31,6 +31,9 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 5**||**03-10 November**|||
 **Week 6**||**10-17 November**|||
 **Week 7**||**17-24 November**|No test||
+1|Homeworks/HW7|| [Abstract Virtual Lectures](https://www.hackerrank.com/contests/sda-homework-7/challenges/avl-delete) |Medium| [Abstract_Virtual_Lectures.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW7/Abstract_Virtual_Lectures.cpp)
+1|Homeworks/HW7|| [Маската на Зоро](https://www.hackerrank.com/contests/sda-homework-7/challenges/zoros-mask/problem) |Easy| [Maskata_na_zoro.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW7/Maskata_na_zoro.cpp)
+1|Homeworks/HW7|| [Minimum xor](https://www.hackerrank.com/contests/sda-homework-7/challenges/minimum-xor-3) |Medium| [Minimum_XOR.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW7/Minimum_XOR.cpp)
 **Week 8**||**24-01 November-December**|||
 1|Homeworks/HW8|| [Контролни](https://www.hackerrank.com/contests/sda-homework-8/challenges/challenge-2727) |Hard| [Kontrolni.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW8/Kontrolni.cpp)
 1|Homeworks/HW8|| [Присъствено обучение](https://www.hackerrank.com/contests/sda-homework-8/challenges/challenge-2728) |Medium| [Prisustveno_obuchenie.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW8/Prisustveno_obuchenie.cpp)
