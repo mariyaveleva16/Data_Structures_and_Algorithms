@@ -32,6 +32,12 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 **Week 6**||**10-17 November**|||
 **Week 7**||**17-24 November**|No test||
 **Week 8**||**24-01 November-December**|||
+1|Homeworks/HW8|| [Контролни](https://www.hackerrank.com/contests/sda-homework-8/challenges/challenge-2727) |Hard| [Kontrolni.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW8/Kontrolni.cpp)
+1|Homeworks/HW8|| [Присъствено обучение](https://www.hackerrank.com/contests/sda-homework-8/challenges/challenge-2728) |Medium| [Prisustveno_obuchenie.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW8/Prisustveno_obuchenie.cpp)
+1|Homeworks/HW8|| [Елитизъм](https://www.hackerrank.com/contests/sda-homework-8/challenges/elitism) |Medium| [Elitizm.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW8/Elitizm.cpp)
+1|Homeworks/HW8|| [Geometry: Най-близък съсед](https://www.hackerrank.com/contests/sda-homework-8/challenges/implement-nearest-neighbour) |Hard| [Geometry:closest_neighbour.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW8/Geometry:closest_neighbour.cpp)
+1|Exams/Test7|| [Почистване във ФМИ](https://www.hackerrank.com/contests/sda-2020-2021-test7-8jfn4/challenges/challenge-2736) |Medium| [Pochisvane_vuv_FMI.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test7/Pochisvane_vuv_FMI.cpp)
+1|Exams/Test7|| [Производство на електрически автомобили](https://www.hackerrank.com/contests/sda-2020-2021-test7-8jfn4/challenges/challenge-2737) |Medium| [Proizvodstvo_na_elektrichesk_avtomobili.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test7/Proizvodstvo_na_elektrichesk_avtomobili.cpp)
 **Week 9**||**03-15 December**|||
 1|Homeworks/HW9|| [Обир в хотел София](https://www.hackerrank.com/contests/sda-homework-9/challenges/challenge-2739) |Medium| [Obir_v_hotel_Sofiq.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW9/Obir_v_hotel_Sofiq.cpp)
 1|Homeworks/HW9|| [Cheater](https://www.hackerrank.com/contests/sda-homework-9/challenges/challenge-2590) |Medium| [Cheater.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW9/Cheater.cpp)
