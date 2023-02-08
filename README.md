@@ -4,7 +4,11 @@
 <p align="center">
   <img src="https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Learn-Data-Structures-and-Algorithms-Easily.gif" height="300" alt="volatility">
 </p>
+## Description
+- Data Structures and algotithms in C++.
+- Data Structures and algotithms course at FMI in 2020-2021.
 
+## Content
 <div align="center">
   
 N|Subdomain|Tags|Task|Difffculty|Solution
