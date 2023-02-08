@@ -27,9 +27,14 @@ N|Subdomain|Tags|Task|Difffculty|Solution
 14|Homeworks/HW2|| [Weird Queries](https://www.hackerrank.com/contests/sda-homework-3/challenges/queries-5/copy-from/1329907010) |Hard| [Wierd_queries.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Wierd_queries.cpp)
 15|Homeworks/HW2|| [Between Us - Bonus](https://www.hackerrank.com/contests/sda-homework-3/challenges/betweenus) |Advanced| [Between_us.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW3/Between_us.cpp)
 **Week 3**||**20-27 October**|||
-
 **Week 4**||**27-03 October-November**|||
-
+1|Homeworks/HW4|| [Delete a Node](https://www.hackerrank.com/contests/sda-homework-4/challenges/delete-a-node-from-a-linked-list) |Easy| [Delete_a_node.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW4/Delete_a_node.cpp)
+1|Homeworks/HW4|| [Find Merge Point of Two Lists](https://www.hackerrank.com/contests/sda-homework-4/challenges/find-the-merge-point-of-two-joined-linked-lists) |Easy| [Find_Merge_Point_of_Two_Lists.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW4/Find_Merge_Point_of_Two_Lists.cpp)
+1|Homeworks/HW4|| [Insert a node at a specific position in a linked list](https://www.hackerrank.com/contests/sda-homework-4/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) |Easy| [Insert_a_node_at_a_specific_position_in_a_linked_list.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW4/Insert_a_node_at_a_specific_position_in_a_linked_list.cpp)
+1|Homeworks/HW4|| [Merge two sorted linked lists](https://www.hackerrank.com/contests/sda-homework-4/challenges/merge-two-sorted-linked-lists) |Easy| [Merge_two_sorted_linked_lists.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW4/Merge_two_sorted_linked_lists.cpp)
+1|Homeworks/HW4|| [Разбъркване на квадратчета - Linked List](https://www.hackerrank.com/contests/sda-homework-4/challenges/challenge-2647) |Medium| [Razbrkvane_na_kvadratcheta_linked_list.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW4/Razbrkvane_na_kvadratcheta_linked_list.cpp)
+1|Homeworks/HW4|| [СДА контролно](https://www.hackerrank.com/contests/sda-homework-4/challenges/challenge-2685) |Medium| [SDA_kontrolno.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW4/SDA_kontrolno.cpp)
+1|Exams/Test4|| [Списък операции - 1](https://www.hackerrank.com/contests/sda-2020-2021-test4-tsdcfh/challenges/-1-21) |Medium| [Spisuk_operacii_1.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Exams/Test4/Spisuk_operacii_1.cpp)
 **Week 5**||**03-10 November**|||
 1|Homeworks/HW5|| [Камиони](https://www.hackerrank.com/contests/sda-homework-5/challenges/trucks) |Medium| [Kamioni.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW5/Kamioni.cpp)
 1|Homeworks/HW5|| [MinStack](https://www.hackerrank.com/contests/sda-homework-5/challenges/minstack) |Medium| [MinStack.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW5/MinStack.cpp)
